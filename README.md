@@ -12,9 +12,12 @@ The goal is to simulate a real-world credit risk analysis process used in financ
 
 ## 📦 Dataset
 - Source: Lending Club Loan Data (Kaggle)
-- Size used: ~50,000 rows
+    - https://www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction/input?select=accepted_2007_to_2018Q4.csv.gz
+- Size used: Sample 50,000 rows
 - Target variable:
+
   0 = Fully Paid
+
   1 = Charged Off (Default)
 
 ## 🧹 Data Cleaning
@@ -86,5 +89,3 @@ credit-risk-analysis/
 │
 ├── credit-risk-analysis.ipynb
 ├── README.md
-└── data/
-    └── accepted_2007_to_2018Q4.csv 
