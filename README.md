@@ -29,7 +29,6 @@ The goal is to simulate a real-world credit risk analysis process used in financ
 
 ## 📊 Exploratory Data Analysis (EDA)
 Key visualizations:
-- Default distribution
 - Interest Rate vs Default
 - Grade vs Default
 - Income vs Default
